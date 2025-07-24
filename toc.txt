@@ -3,3 +3,6 @@
 Creating Snapshots
   - Initializing a repository
   - Staging changes
+
+  Mountain
+  Beautiful Weather
