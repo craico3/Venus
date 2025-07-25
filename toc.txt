@@ -5,4 +5,5 @@ Creating Snapshots
   - Staging changes
 
 Mountain
-* Beautiful Weather
+Beautiful Weather
+Sunny Day
